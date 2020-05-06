@@ -1,11 +1,5 @@
 /* ========================================
 
-    You can style CSS3 in here
-
-   ====================================== */
-
-/* ========================================
-
     Facebook Style Buttons
 
     ===================================== */
@@ -35,17 +29,24 @@
         border-color: #1d4698;
     }
 
-    .facebook-style-light {
-        background: #f6f7f9;
-        border: solid 1px #ced0d4;
-        color: #4b4f56;
+.facebook-style-light {
+    background: #f6f7f9;
+    border: solid 1px #ced0d4;
+    color: #4b4f56;
+}
+    .facebook-style-light:hover {
+        cursor: pointer;
+        background: #e9ebee;
     }
-        .facebook-style-light:hover {
-            cursor: pointer;
-            background: #e9ebee;
-        }
 
-        .facebook-style-light:active {
-            background: #d8dade;
-            border-color: #d8dade;
-        }
+    .facebook-style-light:active {
+        background: #d8dade;
+        border-color: #d8dade;
+    }
+
+
+/* ========================================
+
+    3D Buttons
+
+    ===================================== */
