@@ -35,6 +35,7 @@ p {
 .container > div {
   height: 24vh;
   background-size: cover;
+  /* Key to 2 images side by side */
   background-attachment: fixed;
 
   display: flex;
