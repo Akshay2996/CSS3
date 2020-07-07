@@ -2,8 +2,11 @@
     outline: none;
 }
 
+#wahoo:hover{
+  cursor: pointer;
+}
+
 #wahoo:active + .mario-block{
-    cursor: pointer;
     animation: jump 1s ease-in-out;
 }
 
