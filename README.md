@@ -11,7 +11,7 @@ This Project is the showcase of what CSS3 can do if you use only CSS3 and HTML5 
 ## Table of Contents
 
 | Index | Name                                                                                   | Source Code                            | See Live                                                                 |
-| ----- | -------------------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------|
+| ----- | -------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------ |
 | 1     | [Fancy Buttons](https://akshay2996.github.io/CSS3/01%20-%20Fancy%20Buttons)            | [Code](01%20-%20Fancy%20Buttons/)      | [Live](https://akshay2996.github.io/CSS3/01%20-%20Fancy%20Buttons/)      |
 | 2     | [Typography](https://akshay2996.github.io/CSS3/02%20-%20Typography)                    | [Code](02%20-%20Typography/)           | [Live](https://akshay2996.github.io/CSS3/02%20-%20Typography/)           |
 | 3     | [Clipping Images](https://akshay2996.github.io/CSS3/03%20-%20Clipping%20Images/)       | [Code](03%20-%20Clipping%20Images/)    | [Live](https://akshay2996.github.io/CSS3/03%20-%20Clipping%20Images/)    |
@@ -24,7 +24,8 @@ This Project is the showcase of what CSS3 can do if you use only CSS3 and HTML5 
 | 10    | [Sticky Footer](https://akshay2996.github.io/CSS3/13%20-%20Sticky%20Footer/)           | [Code](13%20-%20Sticky%20Footer/)      | [Live](https://akshay2996.github.io/CSS3/13%20-%20Sticky%20Footer/)      |
 | 11    | [Sticky Header](https://akshay2996.github.io/CSS3/14%20-%20Sticky%20Header/)           | [Code](14%20-%20Sticky%20Header/)      | [Live](https://akshay2996.github.io/CSS3/14%20-%20Sticky%20Header/)      |
 | 12    | [Sticky Sidebar](https://akshay2996.github.io/CSS3/15%20-%20Sticky%20Sidebar/)         | [Code](15%20-%20Sticky%20Sidebar/)     | [Live](https://akshay2996.github.io/CSS3/15%20-%20Sticky%20Sidebar/)     |
-| 13    | [8-Bit Mario](https://akshay2996.github.io/CSS3/08%20-%208-Bit%20Mario/)            | [Code](08%20-%208-Bit%20Mario/)            | [Live](https://akshay2996.github.io/CSS3/08%20-%208-Bit%20Mario/)    |
+| 13    | [8-Bit Mario](https://akshay2996.github.io/CSS3/08%20-%208-Bit%20Mario/)               | [Code](08%20-%208-Bit%20Mario/)        | [Live](https://akshay2996.github.io/CSS3/08%20-%208-Bit%20Mario/)        |
 | 14    | [Animated Navbar](https://akshay2996.github.io/CSS3/Animated%20Navbar/)                | [Code](Animated%20Navbar)              | [Live](https://akshay2996.github.io/CSS3/Animated%20Navbar/)             |
-| 15    | [Grid with Image](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)       | [Code](Grid%20with%20Image%20span/)    | [Live](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)    |
-| 16    | [Video Landing Page](https://akshay2996.github.io/CSS3/Video%20Background/)            | [Code](Video%20Background/)            | [Live](https://akshay2996.github.io/CSS3/Video%20Background/)    |
+| 15    | [CodePen Replica](https://akshay2996.github.io/CSS3/CodePen%20Replica/)                | [Code](CodePen%20Replica/)             | [Live](https://akshay2996.github.io/CSS3/CodePen%20Replica/)             |
+| 16    | [Grid with Image](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)       | [Code](Grid%20with%20Image%20span/)    | [Live](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)    |
+| 167   | [Video Landing Page](https://akshay2996.github.io/CSS3/Video%20Background/)            | [Code](Video%20Background/)            | [Live](https://akshay2996.github.io/CSS3/Video%20Background/)            |
