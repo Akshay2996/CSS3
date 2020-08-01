@@ -28,4 +28,4 @@ This Project is the showcase of what CSS3 can do if you use only CSS3 and HTML5 
 | 14    | [Animated Navbar](https://akshay2996.github.io/CSS3/Animated%20Navbar/)                | [Code](Animated%20Navbar)              | [Live](https://akshay2996.github.io/CSS3/Animated%20Navbar/)             |
 | 15    | [CodePen Replica](https://akshay2996.github.io/CSS3/CodePen%20Replica/)                | [Code](CodePen%20Replica/)             | [Live](https://akshay2996.github.io/CSS3/CodePen%20Replica/)             |
 | 16    | [Grid with Image](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)       | [Code](Grid%20with%20Image%20span/)    | [Live](https://akshay2996.github.io/CSS3/Grid%20with%20Image%20span/)    |
-| 167   | [Video Landing Page](https://akshay2996.github.io/CSS3/Video%20Background/)            | [Code](Video%20Background/)            | [Live](https://akshay2996.github.io/CSS3/Video%20Background/)            |
+| 17   | [Video Landing Page](https://akshay2996.github.io/CSS3/Video%20Background/)            | [Code](Video%20Background/)            | [Live](https://akshay2996.github.io/CSS3/Video%20Background/)            |
